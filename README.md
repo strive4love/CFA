@@ -1,5 +1,5 @@
 # SchweserNotes for the CFA Exam (KAPLAN university, SCHOOL OF PROFESSIONAL AND CONTINUING EDUCATION, schweser)
-2016 Level 1  
+# 2016 Level 1  
 # Book 1 |  Ethical and Professional Standards and Quantitative Methods
 ## Reading Assignments and Learning Outcome Statements
 ## session 1 - Ethical and Professional Standards
@@ -48,4 +48,7 @@
 ## Appendix A: Rates,Returns,and Yields
 ## Fomulas
 ## Index
+
+Book 6 | Standards of practice handbook |2014 Eleventh edition
+Book 7 | 2015 年 CFA Level I mock exam | 官方样题
 
